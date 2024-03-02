@@ -1,5 +1,5 @@
 # BackgroundChangerInReact
-
+![Counter in React](ss.png)
 BackgroundChangerInReact is a React application that allows users to dynamically change the background color of a page. This repository provides a minimal setup for React development using Vite with Hot Module Replacement (HMR) and includes ESLint rules for code quality and consistency.
 
 ## Features
@@ -69,6 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or inquiries, please feel free to contact me at [email@example.com](mailto:email@example.com).
+If you have any questions or inquiries, please feel free to contact me at [abdulmehad@gmail.com](mailto:abdulmehad@gmail.com).
 
 Thank you for using BackgroundChangerInReact!
