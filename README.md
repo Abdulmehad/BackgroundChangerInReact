@@ -8,6 +8,13 @@ BackgroundChangerInReact is a React application that allows users to dynamically
 - React setup with Vite and HMR
 - ESLint rules for code quality
 
+## Live At
+1. To see the Live demo of app, follow this Link
+
+   ```shell[
+   https://backkggrooundchanger.netlify.app/
+   ```
+   This project can also be seen live at [Live Link](https://backkggrooundchanger.netlify.app/).
 ## Functionality
 
 The BackgroundChangerInReact application provides the following color options:
